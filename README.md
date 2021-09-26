@@ -1,6 +1,6 @@
 # MyRayTracingInOneWeekend
 
-My code and some note of [**_Ray Tracing in One Weekend_**](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (Version 3.2.3, 2020-12-07, acknowledged as and short for **rtweekend**)
+My practice code and some note of [**_Ray Tracing in One Weekend_**](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (Version 3.2.3, 2020-12-07, acknowledged as and short for **rtweekend**)
 
 ## Proof of perpendicular part of refracted ray formula
 
