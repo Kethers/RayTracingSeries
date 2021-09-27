@@ -18,7 +18,7 @@ $\eta \cdot \sin \theta=\eta^{\prime} \cdot \sin \theta^{\prime}$
 
 Unfold the $\sin \theta$ and the $\sin\theta^{\prime}$, yielding:
 
-$\eta \cdot \frac{\|\mathrm{R}_{\perp}\|}{\|\mathrm{R}\|}=\eta^{\prime} \cdot \frac{\|\mathrm{R}_{\perp}^{\prime}\|}{\|\mathrm{R}^{\prime}\|}$
+$\eta \cdot \frac{\|\mathrm{R}_{\perp}\|}{\|\mathrm{R}\|} = \eta^{\prime} \cdot \frac{\|\mathrm{R}_{\perp}^{\prime}\|}{\|\mathrm{R}^{\prime}\|}$
 
 $\because \|\mathrm{R}\|=\|\mathrm{R}^{\prime}\|=unit \space vector$
 
