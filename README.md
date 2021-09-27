@@ -18,19 +18,19 @@ $\eta \cdot \sin \theta=\eta^{\prime} \cdot \sin \theta^{\prime}$
 
 Unfold the $\sin \theta$ and the $\sin\theta^{\prime}$, yielding:
 
-$\eta \cdot \frac{|\mathrm{R}_{\perp}|}{|\mathrm{R}|}=\eta^{\prime} \cdot  \frac{|\mathrm{R}_{\perp}^{\prime}|}{|\mathrm{R}^{\prime}|}$
+$\eta \cdot \frac{\|\mathrm{R}_{\perp}\|}{\|\mathrm{R}\|}=\eta^{\prime} \cdot  \frac{\|\mathrm{R}_{\perp}^{\prime}\|}{\|\mathrm{R}^{\prime}\|}$
 
-$\because |\mathrm{R}|=|\mathrm{R}^{\prime}|=unit \space vector$
+$\because \|\mathrm{R}\|=\|\mathrm{R}^{\prime}\|=unit \space vector$
 
-$\therefore |\mathrm{R}_{\perp}^{\prime}|=\frac{\eta}{\eta^{\prime}}|\mathrm{R}_{\perp}|$
+$\therefore \|\mathrm{R}_{\perp}^{\prime}\|=\frac{\eta}{\eta^{\prime}}\|\mathrm{R}_{\perp}\|$
 
 $\because \mathrm{R}_{\perp}^{\prime}$ and $\mathrm{R}_{\perp}$ are in the same direction
 
 $\therefore \mathrm{R}_{\perp}^{\prime}=\frac{\eta}{\eta^{\prime}}\mathrm{R}_{\perp} \space \cdots \space \cdots (1)$
 
-$\because |\mathrm{R}_{\parallel}|=|\mathrm{R}| \cdot \cos \theta$ , $|\mathrm{R}|=|\mathrm{n}|=unit \space vector$
+$\because \|\mathrm{R}_{\parallel}\|=\|\mathrm{R}\| \cdot \cos \theta$ , $\|\mathrm{R}\|=\|\mathrm{n}\|=unit \space vector$
 
-$\therefore |\mathrm{R}_{\parallel}|=|\mathrm{n}| \cdot \cos \theta$
+$\therefore \|\mathrm{R}_{\parallel}\|=\|\mathrm{n}\| \cdot \cos \theta$
 
 $\because \mathrm{R}$ and $\mathrm{n}$ are in the opposite direction
 
@@ -52,5 +52,6 @@ The final code in section 13 might take your computer hours to run and get the r
 
 Manage your time and good luck.
 
-My image.ppm:
-![image](./image.ppm)
+My rtweekend image:
+
+![image](./image.png)
