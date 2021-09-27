@@ -48,5 +48,9 @@ Proof complete.
 
 ## Tips
 
-The final code in section 13 might take hours to run and get the result image.
+The final code in section 13 might take your computer hours to run and get the result image. (I use a Virtual Box VM with 4 CPUs of i7-8750h and it takes about 15 hours to complete)
+
 Manage your time and good luck.
+
+My image.ppm:
+![image](./image.ppm)
