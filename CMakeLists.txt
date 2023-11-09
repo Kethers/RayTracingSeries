@@ -47,13 +47,13 @@ set ( SOURCE_NEXT_WEEK
   TheNextWeek/bvh.h
   TheNextWeek/camera.h
   TheNextWeek/color.h
-#   TheNextWeek/constant_medium.h
+  TheNextWeek/constant_medium.h
   TheNextWeek/hittable.h
   TheNextWeek/hittable_list.h
   TheNextWeek/interval.h
   TheNextWeek/material.h
   TheNextWeek/perlin.h
-#   TheNextWeek/quad.h
+  TheNextWeek/quad.h
   TheNextWeek/ray.h
   TheNextWeek/rtw_stb_image.h
   TheNextWeek/rtweekend.h
