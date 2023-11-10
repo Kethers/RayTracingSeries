@@ -64,30 +64,30 @@ set ( SOURCE_NEXT_WEEK
   TheNextWeek/main.cpp
 )
 
-# set ( SOURCE_REST_OF_YOUR_LIFE
-#   external/stb_image.h
+set ( SOURCE_REST_OF_YOUR_LIFE
+  external/stb_image.h
 
-#   TheRestOfYourLife/aabb.h
-#   TheRestOfYourLife/camera.h
-#   TheRestOfYourLife/color.h
-#   TheRestOfYourLife/constant_medium.h
-#   TheRestOfYourLife/hittable.h
-#   TheRestOfYourLife/hittable_list.h
-#   TheRestOfYourLife/interval.h
-#   TheRestOfYourLife/material.h
-#   TheRestOfYourLife/onb.h
-#   TheRestOfYourLife/pdf.h
-#   TheRestOfYourLife/perlin.h
-#   TheRestOfYourLife/quad.h
-#   TheRestOfYourLife/ray.h
-#   TheRestOfYourLife/rtw_stb_image.h
-#   TheRestOfYourLife/rtweekend.h
-#   TheRestOfYourLife/sphere.h
-#   TheRestOfYourLife/texture.h
-#   TheRestOfYourLife/vec3.h
+  TheRestOfYourLife/aabb.h
+  TheRestOfYourLife/camera.h
+  TheRestOfYourLife/color.h
+  TheRestOfYourLife/constant_medium.h
+  TheRestOfYourLife/hittable.h
+  TheRestOfYourLife/hittable_list.h
+  TheRestOfYourLife/interval.h
+  TheRestOfYourLife/material.h
+  TheRestOfYourLife/onb.h
+  TheRestOfYourLife/pdf.h
+  TheRestOfYourLife/perlin.h
+  TheRestOfYourLife/quad.h
+  TheRestOfYourLife/ray.h
+  TheRestOfYourLife/rtw_stb_image.h
+  TheRestOfYourLife/rtweekend.h
+  TheRestOfYourLife/sphere.h
+  TheRestOfYourLife/texture.h
+  TheRestOfYourLife/vec3.h
 
-#   TheRestOfYourLife/main.cpp
-# )
+  TheRestOfYourLife/main.cpp
+)
 
 # include_directories(src)
 
@@ -116,11 +116,11 @@ endif()
 # Executables
 add_executable(inOneWeekend      ${EXTERNAL} ${SOURCE_ONE_WEEKEND})
 add_executable(theNextWeek       ${EXTERNAL} ${SOURCE_NEXT_WEEK})
-# add_executable(theRestOfYourLife ${EXTERNAL} ${SOURCE_REST_OF_YOUR_LIFE})
-# add_executable(cos_cubed         TheRestOfYourLife/cos_cubed.cpp         )
-# add_executable(cos_density       TheRestOfYourLife/cos_density.cpp       )
-# add_executable(integrate_x_sq    TheRestOfYourLife/integrate_x_sq.cpp    )
-# add_executable(pi                TheRestOfYourLife/pi.cpp                )
-# add_executable(estimate_halfway  TheRestOfYourLife/estimate_halfway.cpp  )
-# add_executable(sphere_importance TheRestOfYourLife/sphere_importance.cpp )
-# add_executable(sphere_plot       TheRestOfYourLife/sphere_plot.cpp       )
+add_executable(theRestOfYourLife ${EXTERNAL} ${SOURCE_REST_OF_YOUR_LIFE})
+add_executable(cos_cubed         TheRestOfYourLife/cos_cubed.cpp         )
+add_executable(cos_density       TheRestOfYourLife/cos_density.cpp       )
+add_executable(integrate_x_sq    TheRestOfYourLife/integrate_x_sq.cpp    )
+add_executable(pi                TheRestOfYourLife/pi.cpp                )
+add_executable(estimate_halfway  TheRestOfYourLife/estimate_halfway.cpp  )
+add_executable(sphere_importance TheRestOfYourLife/sphere_importance.cpp )
+add_executable(sphere_plot       TheRestOfYourLife/sphere_plot.cpp       )
