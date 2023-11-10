@@ -1,6 +1,6 @@
 # Ray Tracing: The Next Week
 
-My practice code and some note of [**_[Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)_**](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (Version 4.0.0-alpha.2, unpublished yet)
+My practice code and some note of [***Ray Tracing: The Next Week***](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (Version 4.0.0-alpha.2, unpublished yet)
 
 
 
